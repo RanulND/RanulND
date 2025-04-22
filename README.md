@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h3>I enjoy building software and exploring Natural Language Processing (NLP).</h3>
 <p>
-  <a href="https://github.com/RukshanJS/RukshanJS">
+  <a href="https://github.com/RanulND/RanulND">
       <img src="https://komarev.com/ghpvc/?username=RanulND&color=blue" alt="profile views" />
   </a>
 </p>
